@@ -31,8 +31,6 @@ class GirlsHostel(Hostel):
                     print(f"Student Name : {StudentName}")
                     student_found = True
                     break
-        with open("GirlsHostel.txt","a") as file :
-            file.write(f"{id},{StudentName},{Gender}")
         
         if not student_found:
             print("Not Found")
