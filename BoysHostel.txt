@@ -1,0 +1,3 @@
+3,hassan,male,2004,16,2,1
+4,mohamed,male,2004,24,2,2
+6,Anas,male,2005,18,3,3
